@@ -1,0 +1,22 @@
+{
+  "name": "webdev101",
+  "version": "1.0.0",
+  "description": "### Tooling",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuriym1/webdev101.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuriym1/webdev101/issues"
+  },
+  "homepage": "https://github.com/yuriym1/webdev101#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
